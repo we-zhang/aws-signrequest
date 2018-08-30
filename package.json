@@ -1,0 +1,23 @@
+{
+  "name": "aws-signrequest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weching/aws-signrequest.git"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.8",
+    "request": "^2.88.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weching/aws-signrequest/issues"
+  },
+  "homepage": "https://github.com/weching/aws-signrequest#readme"
+}
