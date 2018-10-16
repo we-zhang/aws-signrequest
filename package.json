@@ -15,7 +15,7 @@
     "request": "^2.88.0"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/weching/aws-signrequest/issues"
   },
